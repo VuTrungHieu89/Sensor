@@ -1,0 +1,7 @@
+mpu6050.c:67:9:MPU6050_Init	2
+mpu6050.c:109:6:MPU6050_Read_Accel	1
+mpu6050.c:131:6:MPU6050_Read_Gyro	1
+mpu6050.c:153:6:MPU6050_Read_Temp	1
+mpu6050.c:166:6:MPU6050_Read_All	7
+mpu6050.c:220:8:Kalman_getAngle	1
+mpu6050.c:250:9:Data_Ready	1
